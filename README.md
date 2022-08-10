@@ -6,7 +6,7 @@ The main purpose of the marketplace in e-commerce is to accurately measure the s
 ![image](https://user-images.githubusercontent.com/78611982/183738743-b9dc3b41-916e-4bf7-b3ac-854a43c0759d.png)
 
 
-# Dataset Stroy
+# Dataset Story
 This dataset, which includes Amazon product data, includes product categories and various metadata. The product with the most reviews in the electronics category has user ratings and reviews.
 
 # Variables
